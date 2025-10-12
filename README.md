@@ -1,10 +1,10 @@
 # Indian-Food-Vision
 
-This a Deep Learning project which uses the Khana dataset to perform image classification. I'm doing this project as an inspiration from the nutrify app by Daniel Bourke Sir. I really liked his project so I wanted to try and create an app similar to his but on the Indian foods .
+This a Deep Learning project which uses the Khana dataset to perform image classification. I'm doing this project as an inspiration from the nutrify app by Daniel Bourke Sir. I really liked his project so I wanted to try and create an app similar to his but on Indian foods .
 
+So I've chosen the Khana dataset from the paper https://arxiv.org/abs/2509.06006 which has 80 categories of Indian foods and almost 1,30,000 images in total.
 
-
-d to do Complete Guide: Building an Indian Food Object Detection App
+Complete Guide: Building an Indian Food Object Detection App
 Overview
 This guide outlines a strategic, step-by-step process for building an Indian food object detection app using a classification-only dataset like Khana. It avoids the tedious task of manually labeling 130,000 images by using a "human-in-the-loop" approach with AI-assisted labeling and active learning.
 Part 1: Train the image classification model
